@@ -1,1 +1,5 @@
 # econometria_aplicada
+
+Documentação da disciplina de Econometria Aplicada do curso de Pós-Graduação em Economia e Finanças da Escola de Economia de São Paulo da Fundação Getulio Vargas (FGV-EESP).
+
+Referência: [João Costa Filho](https://www.joaocostafilho.com/teaching/econometria)
